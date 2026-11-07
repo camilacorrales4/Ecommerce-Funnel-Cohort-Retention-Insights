@@ -19,4 +19,4 @@ Este proyecto analiza el comportamiento de los usuarios en una plataforma de com
   
 * **Acciones de retención:** Se complementa la estrategia con acciones correctivas y campañas de *re-engagement* focalizadas en los segmentos con mayor deserción identificados en la matriz de cohortes.
 
-![Mejora Gráfica](./Mejora%20Gráfica.jpeg)
+<img src="./Mejora%20Gráfica.jpeg" alt="Mejora Gráfica" width="600">

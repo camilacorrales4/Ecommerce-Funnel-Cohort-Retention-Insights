@@ -18,7 +18,30 @@ Este proyecto analiza el comportamiento de los usuarios en una plataforma de com
 * **Estrategia de optimización:** Se prioriza intervenir este tramo mediante el diseño de una **prueba A/B** orientada a reducir la fricción en los pasos previos al pago con el objetivo de lograr un incremento del 15% en la conversión.
   
 * **Acciones de retención:** Se complementa la estrategia con acciones correctivas y campañas de *re-engagement* focalizadas en los segmentos con mayor deserción identificados en la matriz de cohortes.
+# Visualizaciones y Resultados
+* **Optimización del Proceso:** Comparativa visual del antes y el después de la mejora implementada, reflejando el incremento en las métricas de rendimiento y la reducción de fricción.
 
 <div align="center">
   <img src="./Mejora%20Gráfica.jpeg" alt="Mejora Gráfica" width="600">
+</div>
+
+* **Embudo de Conversión por País:** Comparativa del rendimiento y las tasas de caída (*drop-off*) entre las diferentes regiones.
+
+<div align="center">
+  <h3>1. Embudo General por País</h3>
+  <img src="./Embudo%20General%20x%20País.jpeg" alt="Embudo General por País" width="650">
+</div>
+
+* **Mapa de Calor de Retención por Cohortes (D7 a D28):** Visualización del comportamiento de recurrencia de los usuarios agrupados por su mes de registro.
+
+<div align="center">
+  <h3>2. Retención por Cohorte</h3>
+  <img src="./Retención%20x%20Cohorte.jpeg" alt="Retención por Cohorte" width="650">
+</div>
+  
+* **Retención por País (D7 a D28):** Análisis segmentado del nivel de lealtad y abandono a lo largo del tiempo según la ubicación geográfica.
+
+<div align="center">
+  <h3>3. Retención por País</h3>
+  <img src="./Retención%20x%20País.jpeg" alt="Retención por País" width="650">
 </div>

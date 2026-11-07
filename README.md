@@ -28,7 +28,7 @@ Este proyecto analiza el comportamiento de los usuarios en una plataforma de com
 * **Embudo de Conversión por País:** Comparativa del rendimiento y las tasas de caída (*drop-off*) entre las diferentes regiones.
 
 <div align="center">
-  <img src="./embudo_pais.png" alt="Embudo General por País" width="650">
+  <img src="./embudo_pais.png" alt="Embudo General por País" width="100%">
 </div>
 
 * **Mapa de Calor de Retención por Cohortes (D7 a D28):** Visualización del comportamiento de recurrencia de los usuarios agrupados por su mes de registro.

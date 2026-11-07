@@ -28,17 +28,17 @@ Este proyecto analiza el comportamiento de los usuarios en una plataforma de com
 * **Embudo de Conversión por País:** Comparativa del rendimiento y las tasas de caída (*drop-off*) entre las diferentes regiones.
 
 <div align="center">
-  <img src="./Embudo%20General%20x%20País.png" alt="Embudo General por País" width="650">
+  <img src="./embudo_pais.png" alt="Embudo General por País" width="650">
 </div>
 
 * **Mapa de Calor de Retención por Cohortes (D7 a D28):** Visualización del comportamiento de recurrencia de los usuarios agrupados por su mes de registro.
 
 <div align="center">
-  <img src="./Retención%20x%20Cohorte.png" alt="Retención por Cohorte" width="650">
+  <img src="./retencion_cohorte.png" alt="Retención por Cohorte" width="650">
 </div>
   
 * **Retención por País (D7 a D28):** Análisis segmentado del nivel de lealtad y abandono a lo largo del tiempo según la ubicación geográfica.
 
 <div align="center">
-  <img src="./Retención%20x%20País.png" alt="Retención por País" width="650">
+  <img src="./retencion_pais.png" alt="Retención por País" width="650">
 </div>

@@ -18,5 +18,5 @@ Este proyecto analiza el comportamiento de los usuarios en una plataforma de com
 * **Estrategia de optimización:** Se prioriza intervenir este tramo mediante el diseño de una **prueba A/B** orientada a reducir la fricción en los pasos previos al pago con el objetivo de lograr un incremento del 15% en la conversión.
   
 * **Acciones de retención:** Se complementa la estrategia con acciones correctivas y campañas de *re-engagement* focalizadas en los segmentos con mayor deserción identificados en la matriz de cohortes.
-  
-![Gráfica Mejora del Análisis](./Mejora Gráfica.png)
+
+![Mejora Gráfica](./Mejora%20Gráfica.jpeg)
